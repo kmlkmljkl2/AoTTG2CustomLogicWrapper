@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoTTG2_Custom_Logic", "AoTTG2_Custom_Logic.csproj", "{FBE12C8A-E4FB-46E7-B79E-9233FC26C5C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE12C8A-E4FB-46E7-B79E-9233FC26C5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE12C8A-E4FB-46E7-B79E-9233FC26C5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE12C8A-E4FB-46E7-B79E-9233FC26C5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE12C8A-E4FB-46E7-B79E-9233FC26C5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
